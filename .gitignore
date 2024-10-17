@@ -1,0 +1,23 @@
+# Fichiers de l'environnement virtuel
+venv/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# Fichiers spécifiques à l'IDE et système d'exploitation
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Fichiers de cache Python
+__pycache__/
+*.py[cod]
+
+# Fichiers de logs et temporaires
+*.log
+*.tmp
+*.bak
+
+# Streamlit caches (si généré localement, à vérifier)
+.streamlit/
